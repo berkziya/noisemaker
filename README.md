@@ -19,7 +19,7 @@ melody = [
 ]
 ```
 
-the best
+the best:
 ```
 melody = [
     (['A5'], 'eighth'), (['D5'], 'eighth'), (['A#4'], 'eighth'), (['G4'], 'eighth'),
